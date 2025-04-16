@@ -1,12 +1,12 @@
-## conventional-branch org-wide settings
+# Welcome to the Conventional Branch Organization
 
-<!--
+**Clean branches, cleaner workflows — a Git naming convention for everyone.**
 
-**Here are some ideas to get you started:**
+[![Website](https://img.shields.io/static/v1?label=Website&message=conventional-branch.github.io&color=blue)](https://conventional-branch.github.io/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We’re on a mission to make Git branch naming more consistent, readable, and team-friendly. The Conventional Branch specification defines a naming convention that brings order to your development workflow — whether you're working solo or with a team.
+
+## 🎉 Show Your Support
+
+If you find this project helpful, follow us and give it a ⭐️ on [GitHub](https://github.com/conventional-branch/conventional-branch)!
+Your support helps others discover and adopt the spec.
