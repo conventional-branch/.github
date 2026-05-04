@@ -15,7 +15,8 @@
 [Français](https://conventional-branch.github.io/fr/) ·
 [Polski](https://conventional-branch.github.io/pl/) ·
 [Português (Brasil)](https://conventional-branch.github.io/pt-br/) ·
-[Русский](https://conventional-branch.github.io/ru/)
+[Русский](https://conventional-branch.github.io/ru/) ·
+[ภาษาไทย](https://conventional-branch.github.io/th/)
 
 The **Conventional Branch** specification helps teams adopt a clear, consistent, and human-readable Git branch naming convention.
 It brings structure to everyday development workflows — whether you’re working solo or collaborating across teams.
