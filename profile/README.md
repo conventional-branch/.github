@@ -2,21 +2,21 @@
 
 **Clean branches, cleaner workflows — a Git naming convention for everyone.**
 
-[![Website](https://img.shields.io/static/v1?label=Website&message=conventional-branch.github.io&color=6192c3)](https://conventional-branch.github.io/)
+[![Website](https://img.shields.io/static/v1?label=Website&message=conventionalbranch.org&color=6192c3)](https://conventionalbranch.org/)
 
 ## 🌍 Multilingual Documentation
 
-[English](https://conventional-branch.github.io/) ·
-[简体中文](https://conventional-branch.github.io/zh/) ·
-[繁體中文](https://conventional-branch.github.io/zh-hant/) ·
-[日本語](https://conventional-branch.github.io/ja/) ·
-[Deutsch](https://conventional-branch.github.io/de/) ·
-[Español](https://conventional-branch.github.io/es/) ·
-[Français](https://conventional-branch.github.io/fr/) ·
-[Polski](https://conventional-branch.github.io/pl/) ·
-[Português (Brasil)](https://conventional-branch.github.io/pt-br/) ·
-[Русский](https://conventional-branch.github.io/ru/) ·
-[ภาษาไทย](https://conventional-branch.github.io/th/)
+[English](https://conventionalbranch.org/) ·
+[简体中文](https://conventionalbranch.org/zh/) ·
+[繁體中文](https://conventionalbranch.org/zh-hant/) ·
+[日本語](https://conventionalbranch.org/ja/) ·
+[Deutsch](https://conventionalbranch.org/de/) ·
+[Español](https://conventionalbranch.org/es/) ·
+[Français](https://conventionalbranch.org/fr/) ·
+[Polski](https://conventionalbranch.org/pl/) ·
+[Português (Brasil)](https://conventionalbranch.org/pt-br/) ·
+[Русский](https://conventionalbranch.org/ru/) ·
+[ภาษาไทย](https://conventionalbranch.org/th/)
 
 The **Conventional Branch** specification helps teams adopt a clear, consistent, and human-readable Git branch naming convention.
 It brings structure to everyday development workflows — whether you’re working solo or collaborating across teams.
