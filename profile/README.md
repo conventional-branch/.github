@@ -21,6 +21,18 @@
 The **Conventional Branch** specification helps teams adopt a clear, consistent, and human-readable Git branch naming convention.
 It brings structure to everyday development workflows — whether you’re working solo or collaborating across teams.
 
+## 🤖 Agent Skill
+
+Teach your AI coding assistant (Claude Code, Cursor, and more) to create and validate branch names that follow the specification.
+
+Install the [Conventional Branch Skill](https://github.com/conventional-branch/conventional-branch/blob/main/skills/conventional-branch/SKILL.md) with:
+
+```bash
+npx skills add conventional-branch/conventional-branch --skill conventional-branch
+```
+
+Then just ask your agent to create a branch — it will follow the convention automatically.
+
 ## ⭐ Show Your Support
 
 If you find this project helpful, follow us and give it a ⭐️ on [GitHub](https://github.com/conventional-branch/conventional-branch)!
