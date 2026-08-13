@@ -1,0 +1,19 @@
+profile/README.md
+  s_efdadd425e39a5::t_95a07a76bd0644 14-16,18-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "6d2073c4292226428cf8e8bfa22f5acf8f0358af",
+  "prompts": {},
+  "sessions": {
+    "s_efdadd425e39a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_efdadd425e39a5",
+        "model": "unknown"
+      },
+      "human_author": "shenxianpeng <xianpeng.shen@gmail.com>"
+    }
+  }
+}
