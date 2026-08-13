@@ -1,7 +1,5 @@
 # Welcome to the Conventional Branch Organization
 
-**Clean branches, cleaner workflows — a Git naming convention for everyone.**
-
 [![Conventional Branch](https://conventionalbranch.org/badge.svg)](https://conventionalbranch.org/)
 [![Website](https://img.shields.io/static/v1?label=Website&message=conventionalbranch.org&color=6192c3)](https://conventionalbranch.org/)
 
