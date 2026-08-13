@@ -39,10 +39,6 @@ npx skills add conventional-branch/conventional-branch --skill conventional-bran
 
 Then just ask your agent to create a branch — it will follow the convention automatically.
 
-The specification also maintains a [registry of AI agent branch prefixes](https://conventionalbranch.org/about/#ai-agent-source-prefixes)
-— `ai/`, `claude/`, `codex/`, `copilot/`, `cursor/` — so tools and teams can recognize
-agent-authored branches consistently.
-
 ## ⭐ Show Your Support
 
 If you find this project helpful, follow us and give it a ⭐️ on [GitHub](https://github.com/conventional-branch/conventional-branch)!
