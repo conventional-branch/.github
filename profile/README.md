@@ -39,6 +39,23 @@ npx skills add conventional-branch/conventional-branch --skill conventional-bran
 
 Then just ask your agent to create a branch — it will follow the convention automatically.
 
+## ⚙️ Enforce It
+
+Validation lives in [commit-check](https://github.com/commit-check/commit-check), a pre-commit
+hook and CLI that checks branch names against the specification's type prefixes by default, and
+in [commit-check-action](https://github.com/commit-check/commit-check-action), the same check on
+every pull request:
+
+```yaml
+- uses: commit-check/commit-check-action@v2
+  with:
+    branch: true
+    message: false  # true also checks commit messages against Conventional Commits
+```
+
+GitHub rulesets, GitLab push rules, Bitbucket Pipelines and a dependency-free Git hook — each
+carrying the regex from the published spec — are at [conventionalbranch.org/enforce](https://conventionalbranch.org/enforce/).
+
 ## ⭐ Show Your Support
 
 If you find this project helpful, follow us and give it a ⭐️ on [GitHub](https://github.com/conventional-branch/conventional-branch)!
